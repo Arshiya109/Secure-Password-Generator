@@ -45,6 +45,13 @@ Below is a screenshot of the application interface:
 |----result.png
 |----README.md
 
+## Platform Used
+
+* Visual Studio Code
+
+  ![Screensnip of the Code](vscode.png)
+  
+
 ## Technologies Used
 
 * Python 3.12.6
