@@ -39,7 +39,7 @@ Below is a screenshot of the application interface:
 
 /Password Generator/
 |
-|----password_generato.py
+|----Password_Generator-->p_g.py
 |----result.png
 |----README.md
 
