@@ -21,8 +21,6 @@ Below is a screenshot of the application interface:
 
 ![Password Generator Result](result.png)
 
-> 📌 Make sure to add your actual screenshot and rename it to `result.png` in the project folder.
-
 ---
 
 ## How to Run
